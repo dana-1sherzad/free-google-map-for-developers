@@ -5,4 +5,4 @@
 
 ## Watch the Demo
 
-[![Watch the video](https://img.youtube.com/vi/WBLomXwZgQ4/maxresdefault.jpg)](https://www.youtube.com/watch?v=WBLomXwZgQ4)
+[![Watch the video](https://rapidapi.com/blog/wp-content/uploads/2020/11/Google-Maps-e1606170558696.jpg)](https://www.youtube.com/watch?v=WBLomXwZgQ4)
